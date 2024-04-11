@@ -25,5 +25,8 @@ Expense Tracker is a web application that helps users track their expenses. User
 - LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/oditi-agarwal-78b74127b/)
 
 ## ScreenShot
+
+![Screenshot 2024-04-12 003537](https://github.com/OditiAgarwal/Code_Alpha_ExpenseTracker/assets/141148885/3d711fc4-89ff-401a-bddb-c4cfbe3587d9)
+
 ![ExpenseTracker](https://github.com/OditiAgarwal/Code_Alpha_ExpenseTracker/assets/141148885/fa385763-b5cf-4deb-8a47-6e2a6ec6c860)
 
